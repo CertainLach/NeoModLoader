@@ -1,8 +1,5 @@
 # NeoModLoader
-The first Mod Loader for MCPE (required BlockLauncher)
-P.S. I do it a second time from the old (which are closed to you (temporarily)).
--
+The first mod loader for MCPE (required [BlockLauncher](https://github.com/zhuowei/MCPELauncher))
 
-Первый Mod Loadder для MCPE (требуется BlockLauncher)
-P.S. Я делаю его второй раз из старого (который закрыт для вас (временно)).
--
+***
+Первый загрузчик модов для MCPE (требуется [BlockLauncher](https://github.com/zhuowei/MCPELauncher))
